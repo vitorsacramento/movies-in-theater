@@ -1,0 +1,22 @@
+.slide-item {
+   position: relative;
+   display: flex;
+   justify-content: baseline;
+   flex-direction: column;
+   width: 222.69px;
+   height: 397px;
+   padding: 10px;
+}
+
+.slide-item > img {
+    display: flex;
+    height: 300px !important;
+    border-radius: 20px;
+}
+
+.slide-item > h2 {
+    text-align: center;
+    padding: 20px 0 0 0;
+    font-size: 1rem;
+    color: #ffcc03;
+}

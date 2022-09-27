@@ -1,0 +1,8 @@
+.icon {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    font-size: 3rem;
+    color: #ffcc03;
+    cursor: pointer;
+}
